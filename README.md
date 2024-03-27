@@ -7,6 +7,7 @@ Conway's Game of Life in 6502 Assember for the Commander X16 (continuing to lear
 After Starting the game, draw some pixels on the screen using the mouse.
 - Hit 'G' (for Go) to start the game or pause the game.
 - Hit 'Q' (for Quit) to end the game and exit to basic.
+
 You can even draw pixels while the game is playing :-)
 
 ## The algorithm
