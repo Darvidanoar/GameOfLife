@@ -1,6 +1,7 @@
 # GameOfLife
 Conway's Game of Life in 6502 Assember for the Commander X16 (continuing to learn 6502 assembly on the Commander X16)
 
+![GameOfLife](/Life.png)
 
 ## Basic method of play
 After Starting the game, draw some pixels on the screen using the mouse.
