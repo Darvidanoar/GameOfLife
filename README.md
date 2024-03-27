@@ -1,2 +1,15 @@
 # GameOfLife
-Conway's Game of Life in 6502 Assember for the Commander X16
+Conway's Game of Life in 6502 Assember for the Commander X16 (continuing to learn 6502 assembly on the Commander X16)
+
+
+## Basic method of play
+After Starting the game, draw some pixels on the screen using the mouse.
+- Hit 'G' (for Go) to start the game or pause the game.
+- Hit 'Q' (for Quit) to end the game and exit to basic.
+You can even draw pixels while the game is playing :-)
+
+## The algorithm
+Once 'G' is pressed and the game is running, the code starts at the bottom right of the screen and calculates whether the cell lives, dies or spawns a new automoton.
+The results of these next generation calculations are stored in an array.  
+After the entire screen has been checked, the results in the array (the next generation) is displayed on screen.
+The process of calculating the next generation starts again.
