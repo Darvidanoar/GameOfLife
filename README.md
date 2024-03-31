@@ -1,10 +1,15 @@
 # GameOfLife
 Conway's Game of Life in 6502 Assember for the Commander X16 (continuing to learn 6502 assembly on the Commander X16)
 
+This is a slightly modified variant of the game where:
+- live cells that have two neighbours will age and eventually die
+- live cells that have three neighbours will regenerate
+
+
 ![GameOfLife](/Life.png)
 
 ## Basic method of play
-After Starting the game, draw some pixels on the screen using the mouse.
+After starting the game, draw some pixels on the screen using the mouse.
 - Hit 'G' (for Go) to start the game or pause the game.
 - Hit 'Q' (for Quit) to end the game and exit to basic.
 
