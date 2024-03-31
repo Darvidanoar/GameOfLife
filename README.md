@@ -10,7 +10,7 @@ This is a slightly modified variant of the game where:
 
 ## Basic method of play
 After starting the game, draw some pixels on the screen using the mouse.
-- Hit 'G' (for Go) to start the game or pause the game.
+- Hit 'G' (for Go) to start the game or pause the game and add more pixels.
 - Hit 'Q' (for Quit) to end the game and exit to basic.
 
 You can even draw pixels while the game is playing :-)
