@@ -20,3 +20,6 @@ Once 'G' is pressed and the game is running, the code starts at the bottom right
 The results of these next generation calculations are stored in an array.  
 After the entire screen has been checked, the results in the array (the next generation) is displayed on screen.
 The process of calculating the next generation starts again.
+
+## References
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
