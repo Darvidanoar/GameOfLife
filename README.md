@@ -3,7 +3,7 @@ Conway's Game of Life in 6502 Assember for the Commander X16 (continuing to lear
 
 This is a slightly modified variant of the game where:
 - live cells that have two neighbours will age and eventually die
-- live cells that have three neighbours will regenerate
+- live cells that have three neighbours will not age
 
 
 ![GameOfLife](/Life.png)
